@@ -1,0 +1,18 @@
+{
+  "name": "my-express",
+  "version": "1.0.0",
+  "description": "own implementation Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "DimaNaym",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^14.3.2"
+  }
+}
